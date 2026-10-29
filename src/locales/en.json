@@ -9,18 +9,18 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "DAWN AEROWAR Wiki — Story, Episodes, Characters & Soundtrack",
+      "description": "Complete DAWN AEROWAR guide covering the interactive animated film, Zodiac 1's final mission, all 12 episodes, release details, characters, and Jose Pavli's soundtrack."
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
       "title": "DAWN AEROWAR Wiki",
       "description": "Explore DAWN AEROWAR, an interactive animated aviation story featuring cinematic 3D action, hand-drawn characters, a full voice cast, original music, and 12 episodes following a fighter pilot's final mission against an empire.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "12 Episodes",
+        "Interactive Film",
+        "Full Voice Cast",
+        "Steam Release"
       ],
       "primaryCta": "Read the Wiki",
       "secondaryCta": "Visit Steam",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your DAWN AEROWAR Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Understand the interactive animated film format before you start: cinematic 3D aerial action, hand-drawn character moments, and a voice-driven story."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "War Room & Episodes",
+          "description": "Learn how the map, Cinematic Mode, and 12-episode structure work across the nearly two-hour runtime."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Story & Characters",
+          "description": "Meet Zodiac 1, the AWACS operator, and the three Saal'Runa Empire aces pursuing his final escort mission."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Release & Platforms",
+          "description": "Check the confirmed Steam release date, Windows availability, input options, and subtitle support."
         }
       ]
     },
@@ -62,237 +62,295 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Interactive Film",
+        "War Room",
+        "Characters",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Interactive Film Guide",
+          "description": "What DAWN AEROWAR is, how it blends 3D and hand-drawn animation, and how its interactivity works.",
+          "href": "/guide/dawn-aerowar-interactive-animated-film"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "War Room & Episodes",
+          "description": "Compare Cinematic Mode with episode selection and see how the 12-episode mission is organized.",
+          "href": "/guide/dawn-aerowar-war-room-and-episodes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Zodiac 1 & Characters",
+          "description": "Profiles for the lone pilot, the AWACS operator, and Reaper, Freya, and Miracle.",
+          "href": "/story/dawn-aerowar-characters"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Release Date & Platforms",
+          "description": "Confirmed Steam details, Windows availability, supported inputs, and subtitle languages.",
+          "href": "/release/dawn-aerowar-release-date"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Official Links",
+          "description": "Find the official site, Steam listing, soundtrack sources, and community entry points.",
+          "href": "/community/dawn-aerowar-official-links"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Story Explained",
+          "description": "Follow Zodiac 1's last sortie and the recurring question posed by the Empire's aces.",
+          "href": "/story/dawn-aerowar-story"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Voice Cast & Music",
+          "description": "Explore the professional cast and Jose Pavli's original choral-orchestral score.",
+          "href": "/music/dawn-aerowar-jose-pavli"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Soundtrack",
+          "description": "Track the full score, the Bells of Dawn single, and where to listen.",
+          "href": "/music/dawn-aerowar-soundtrack"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Platforms & Requirements",
+          "description": "Review Steam PC availability, controls, subtitles, and confirmed system information.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is DAWN AEROWAR?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "DAWN AEROWAR is an interactive animated film about Zodiac 1, a fighter pilot flying a final escort mission across the Saal'Runa Empire. Its aerial combat is staged in cinematic 3D, while intimate moments in the cockpit use hand-drawn 2D art and a full English voice cast.",
+        "The experience runs nearly two hours across 12 episodes. You can choose episodes from the War Room map or watch the film uninterrupted in Cinematic Mode, then explore dossiers, communications, and other materials between flights."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Format",
+          "value": "Interactive Film"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam PC"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release",
+          "value": "Nov 10, 2026"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Episodes",
+          "value": "12"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Runtime",
+          "value": "Nearly 2 hours"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Composer",
+          "value": "Jose Pavli"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Dossiers",
+          "value": "12"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore DAWN AEROWAR Wiki",
+      "description": "Follow Zodiac 1's final mission through story, characters, episodes, controls, soundtrack, release, and platform details.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "DAWN AEROWAR Release Date and Platform",
+          "description": "Find the confirmed Steam launch date, Windows availability, wishlist status, and what platforms have not been announced.",
+          "href": "/release/dawn-aerowar-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Date",
+              "detail": "November 10, 2026"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Store",
+              "detail": "Steam for Windows PC"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Consoles",
+              "detail": "No console versions announced"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "DAWN AEROWAR Beginner Guide",
+          "description": "Introduce new viewers to the interactive animated format, the War Room, Cinematic Mode, and the difference between episode selection and a straight film watch.",
+          "href": "/guide/dawn-aerowar-interactive-animated-film",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Understand that DAWN AEROWAR is an interactive animated film, not a flight simulator"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Enter the War Room to see the map and episode structure"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Choose individual episodes or start Cinematic Mode for an uninterrupted watch"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "DAWN AEROWAR Story and Plot",
+          "description": "Explore Zodiac 1's revenge-fueled last sortie, the route across the Empire, and the question posed by the three aces hunting him.",
+          "href": "/story/dawn-aerowar-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Pilot",
+              "detail": "Zodiac 1 lost his family, home, and purpose to the Empire"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Mission",
+              "detail": "Escort a secret weapon from the northern front toward the Capital"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Aces",
+              "detail": "Reaper, Freya, and Miracle are sent to stop him"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Question",
+              "detail": "Do you even know what you are fighting for?"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "DAWN AEROWAR Characters Guide",
+          "description": "Meet the deliberately small cast: Zodiac 1, the anonymous AWACS operator, and the three last aces of the Saal'Runa Empire.",
+          "href": "/story/dawn-aerowar-characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Zodiac 1 — the revenge-driven protagonist and named on-screen pilot"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "The AWACS Operator — the sharp, talkative, strangely well-informed radio voice"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Reaper, Freya, and Miracle — the Empire's named pursuing aces"
+            },
+            {
+              "label": "C",
+              "detail": "Supporting voices — more than thirty additional performed roles"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "DAWN AEROWAR Episodes and Missions",
+          "description": "Understand the twelve-episode structure, War Room map, route of the final sortie, and the pure-movie option in Cinematic Mode.",
+          "href": "/guide/dawn-aerowar-war-room-and-episodes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "12",
+              "detail": "Episodes across one continuous last sortie"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2h",
+              "detail": "Nearly two hours of cinematic story"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "MAP",
+              "detail": "Select episodes individually from the War Room"
+            },
+            {
+              "label": "FILM",
+              "detail": "Cinematic Mode removes radio interaction and the map"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "DAWN AEROWAR Controls and Settings",
+          "description": "Review supported inputs, subtitle languages, War Room access, and how to launch the uninterrupted Cinematic Mode.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "KEY",
+              "detail": "Keyboard is supported for player navigation"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "MOUSE",
+              "detail": "Mouse input is supported alongside keyboard controls"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "PAD",
+              "detail": "Gamepad support is a first-class option"
+            },
+            {
+              "label": "SUBS",
+              "detail": "English, French, Italian, German, and Spanish subtitles"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "DAWN AEROWAR Voice Cast and Soundtrack",
+          "description": "Explore Jose Pavli's original score, Bells of Dawn, the choral-orchestral sound, and the professional English voice cast.",
+          "href": "/music/dawn-aerowar-soundtrack",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Score",
+              "detail": "77 minutes of original music written to picture"
+            },
+            {
+              "label": "Composer",
+              "detail": "Jose Pavli wrote orchestral, choral, guitar, and vocal material"
+            },
+            {
+              "label": "Single",
+              "detail": "Bells of Dawn debuted as the announcement-teaser track"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "DAWN AEROWAR System Requirements",
+          "description": "See what platform and input details are officially listed, why the animated-film format matters, and where to check confirmed specifications.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Steam and Windows are the confirmed platform"
+            },
+            {
+              "label": "INPUT",
+              "detail": "Keyboard, mouse, or gamepad"
+            },
+            {
+              "label": "FILES",
+              "detail": "Full voice acting and a 77-minute score are major components"
+            },
+            {
+              "label": "SPECS",
+              "detail": "Check the official Steam page for confirmed PC requirements"
             }
           ]
         }
@@ -300,27 +358,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about DAWN AEROWAR.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is DAWN AEROWAR?",
+          "answer": "DAWN AEROWAR is an interactive animated film about Zodiac 1, a fighter pilot flying a final escort mission against the Saal'Runa Empire. It combines cinematic 3D aerial sequences, hand-drawn 2D character art, and a full English voice cast."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is DAWN AEROWAR a game or a movie?",
+          "answer": "It is a film first. The interactivity comes from the War Room map, where you select episodes, review materials, and choose Cinematic Mode if you want an uninterrupted movie-style watch."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How long is DAWN AEROWAR?",
+          "answer": "The film runs nearly two hours across 12 episodes, with interactive materials including 12 intelligence dossiers and 458 archived radio transmissions."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Who are the main characters in DAWN AEROWAR?",
+          "answer": "The central figures are Zodiac 1, the anonymous AWACS operator, and three Saal'Runa Empire aces: Reaper, Freya, and Miracle."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When does DAWN AEROWAR release?",
+          "answer": "It launches on Steam for Windows on November 10, 2026, with keyboard, mouse, and gamepad support plus subtitles in five languages."
         }
       ]
     },
