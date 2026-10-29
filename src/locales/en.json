@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "DAWN AEROWAR Wiki",
+    "shortName": "DAWN AEROWAR",
+    "tagline": "Story, Episodes, Characters & Soundtrack",
+    "description": "Explore DAWN AEROWAR story, characters, all 12 episodes, soundtrack, release details, and official Steam sources in this cinematic animated aviation adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -31,17 +31,17 @@
     },
     "hero": {
       "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "title": "DAWN AEROWAR Wiki",
+      "description": "Explore DAWN AEROWAR, an interactive animated aviation story featuring cinematic 3D action, hand-drawn characters, a full voice cast, original music, and 12 episodes following a fighter pilot's final mission against an empire.",
       "stats": [
         "All Codes",
         "All Fish & Recipes",
         "Upgrade Guides",
         "Fast Cash Tips"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "primaryCta": "Read the Wiki",
+      "secondaryCta": "Visit Steam",
+      "tertiaryCta": "Official Website",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Explore DAWN AEROWAR",
+      "description": "Follow the story, characters, episodes, soundtrack, and release details for this cinematic animated aviation adventure.",
+      "primary": "Explore the Wiki",
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "DAWN AEROWAR Wiki",
+    "about": "DAWN AEROWAR Wiki is an independent fan-built guide hub covering story, characters, episodes, soundtrack, and release information for this cinematic animated aviation adventure.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 DAWN AEROWAR Wiki. Not affiliated with Neïwa Interactive or Jose Pavli.",
+    "description": "Interactive animated film on Steam with 12 episodes, a full voice cast, and original music.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Official X / Twitter",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official Instagram",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

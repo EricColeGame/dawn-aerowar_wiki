@@ -25,10 +25,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Story, Episodes, Characters & Soundtrack",
   description: "Your DAWN AEROWAR wiki for story, characters, episodes, soundtrack, release details and official sources.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://dawn-aerowar.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://dawn-aerowar.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@dawn-aerowar.wiki",
   gameUrl: "https://store.steampowered.com/app/2991650/",
   heroVideoId: "iRD_UmFF5sU",
   social: {
+    twitter: "https://x.com/dawnaerowar",
     youtube: "https://www.youtube.com/@JosePavli",
   },
   locales: ["en", "es", "pt", "de", "fr"],
