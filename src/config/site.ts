@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/dawnaerowar",
     youtube: "https://www.youtube.com/@JosePavli",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

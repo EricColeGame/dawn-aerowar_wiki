@@ -1,1 +1,456 @@
-{}
+{
+  "site": {
+    "name": "Wiki DAWN AEROWAR",
+    "shortName": "DAWN AEROWAR",
+    "tagline": "Histoire, épisodes, personnages et bande originale",
+    "description": "Explorez l'histoire et les personnages de DAWN AEROWAR, ses 12 épisodes, sa bande originale, les détails de sa sortie et les sources officielles sur Steam dans cette aventure aérienne animée et cinématographique.",
+    "legalNotice": "Wiki de fans non officiel. Créé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "release": "Sortie",
+    "guide": "Guide",
+    "story": "Histoire",
+    "music": "Musique",
+    "community": "Communauté",
+    "toggleTheme": "Changer de thème"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki DAWN AEROWAR — Histoire, épisodes, personnages et bande originale",
+      "description": "Guide complet de DAWN AEROWAR : le film d'animation interactif, la dernière mission de Zodiac 1, les 12 épisodes, les détails de la sortie, les personnages et la bande originale de Jose Pavli."
+    },
+    "hero": {
+      "eyebrow": "Wiki communautaire créé par des fans",
+      "title": "Wiki DAWN AEROWAR",
+      "description": "Découvrez DAWN AEROWAR, une histoire aérienne animée et interactive mêlant action cinématographique en 3D, personnages dessinés à la main, distribution vocale complète, musique originale et 12 épisodes consacrés à la dernière mission d'un pilote de chasse contre un empire.",
+      "stats": [
+        "12 épisodes",
+        "Film interactif",
+        "Distribution vocale complète",
+        "Sortie sur Steam"
+      ],
+      "primaryCta": "Lire le wiki",
+      "secondaryCta": "Visiter Steam",
+      "tertiaryCta": "Site officiel",
+      "videoLabel": "Médias officiels"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Pour commencer",
+      "title": "Votre parcours dans DAWN AEROWAR",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Découvrez le format du film d'animation interactif avant de commencer : action aérienne cinématographique en 3D, scènes avec des personnages dessinés à la main et histoire portée par les voix."
+        },
+        {
+          "number": "2",
+          "title": "Salle de guerre et épisodes",
+          "description": "Découvrez le fonctionnement de la carte, du mode cinématique et de la structure en 12 épisodes sur une durée de près de deux heures."
+        },
+        {
+          "number": "3",
+          "title": "Histoire et personnages",
+          "description": "Rencontrez Zodiac 1, l'opérateur AWACS et les trois as de l'Empire Saal'Runa lancés à sa poursuite pendant sa dernière mission d'escorte."
+        },
+        {
+          "number": "4",
+          "title": "Sortie et plateformes",
+          "description": "Consultez la date de sortie confirmée sur Steam, la disponibilité sur Windows, les options de commande et les sous-titres pris en charge."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances du moment",
+      "quickLinks": [
+        "Film interactif",
+        "Salle de guerre",
+        "Personnages",
+        "Date de sortie"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du film interactif",
+          "description": "Ce qu'est DAWN AEROWAR, comment il associe animation 3D et dessins à la main, et comment fonctionne son interactivité.",
+          "href": "/guide/dawn-aerowar-interactive-animated-film"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Salle de guerre et épisodes",
+          "description": "Comparez le mode cinématique à la sélection des épisodes et découvrez l'organisation de la mission en 12 épisodes.",
+          "href": "/guide/dawn-aerowar-war-room-and-episodes"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Zodiac 1 et les personnages",
+          "description": "Portraits du pilote solitaire, de l'opérateur AWACS, de Reaper, de Freya et de Miracle.",
+          "href": "/story/dawn-aerowar-characters"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Date de sortie et plateformes",
+          "description": "Informations confirmées sur Steam, disponibilité sur Windows, commandes prises en charge et langues des sous-titres.",
+          "href": "/release/dawn-aerowar-release-date"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Liens officiels",
+          "description": "Retrouvez le site officiel, la page Steam, les sources de la bande originale et les points d'accès à la communauté.",
+          "href": "/community/dawn-aerowar-official-links"
+        },
+        {
+          "badge": "Populaire",
+          "title": "L'histoire expliquée",
+          "description": "Suivez la dernière sortie de Zodiac 1 et la question que lui posent sans cesse les as de l'Empire.",
+          "href": "/story/dawn-aerowar-story"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Distribution vocale et musique",
+          "description": "Découvrez la distribution professionnelle et la bande originale chorale et orchestrale de Jose Pavli.",
+          "href": "/music/dawn-aerowar-jose-pavli"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Bande originale",
+          "description": "Découvrez la bande originale complète, le single Bells of Dawn et où les écouter.",
+          "href": "/music/dawn-aerowar-soundtrack"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Plateformes et configuration requise",
+          "description": "Consultez la disponibilité sur PC via Steam, les commandes, les sous-titres et les informations système confirmées.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que DAWN AEROWAR ?",
+      "paragraphs": [
+        "DAWN AEROWAR est un film d'animation interactif consacré à Zodiac 1, un pilote de chasse qui effectue une dernière mission d'escorte à travers l'Empire Saal'Runa. Ses combats aériens sont mis en scène en 3D cinématographique, tandis que les moments intimes dans le cockpit utilisent des dessins 2D réalisés à la main et une distribution vocale anglaise complète.",
+        "L'expérience dure près de deux heures et comprend 12 épisodes. Vous pouvez choisir les épisodes sur la carte de la salle de guerre ou regarder le film sans interruption en mode cinématique, puis consulter des dossiers, des communications et d'autres documents entre les vols."
+      ],
+      "stats": [
+        {
+          "label": "Format",
+          "value": "Film interactif"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC via Steam"
+        },
+        {
+          "label": "Sortie",
+          "value": "10 nov. 2026"
+        },
+        {
+          "label": "Épisodes",
+          "value": "12"
+        },
+        {
+          "label": "Durée",
+          "value": "Près de 2 heures"
+        },
+        {
+          "label": "Compositeur",
+          "value": "Jose Pavli"
+        },
+        {
+          "label": "Dossiers",
+          "value": "12"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorer le wiki DAWN AEROWAR",
+      "description": "Suivez la dernière mission de Zodiac 1 à travers l'histoire, les personnages, les épisodes, les commandes, la bande originale et les détails de la sortie et des plateformes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Date de sortie et plateforme de DAWN AEROWAR",
+          "description": "Retrouvez la date de lancement confirmée sur Steam, la disponibilité sur Windows, la possibilité de l'ajouter à votre liste de souhaits et les plateformes qui n'ont pas été annoncées.",
+          "href": "/release/dawn-aerowar-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Date",
+              "detail": "10 novembre 2026"
+            },
+            {
+              "label": "Boutique",
+              "detail": "Steam pour PC Windows"
+            },
+            {
+              "label": "Consoles",
+              "detail": "Aucune version console annoncée"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide du débutant de DAWN AEROWAR",
+          "description": "Présentez aux nouveaux spectateurs le format d'animation interactif, la salle de guerre, le mode cinématique et la différence entre sélectionner des épisodes et regarder le film d'une traite.",
+          "href": "/guide/dawn-aerowar-interactive-animated-film",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Comprendre que DAWN AEROWAR est un film d'animation interactif, pas un simulateur de vol"
+            },
+            {
+              "label": "2",
+              "detail": "Entrer dans la salle de guerre pour voir la carte et la structure des épisodes"
+            },
+            {
+              "label": "3",
+              "detail": "Choisir des épisodes individuellement ou lancer le mode cinématique pour regarder le film sans interruption"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Histoire et intrigue de DAWN AEROWAR",
+          "description": "Explorez la dernière sortie de Zodiac 1, motivée par la vengeance, son trajet à travers l'Empire et la question posée par les trois as qui le traquent.",
+          "href": "/story/dawn-aerowar-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pilote",
+              "detail": "Zodiac 1 a perdu sa famille, son foyer et sa raison d'être à cause de l'Empire"
+            },
+            {
+              "label": "Mission",
+              "detail": "Escorter une arme secrète du front nord vers la Capitale"
+            },
+            {
+              "label": "As",
+              "detail": "Reaper, Freya et Miracle sont envoyés pour l'arrêter"
+            },
+            {
+              "label": "Question",
+              "detail": "Sais-tu seulement pour quoi tu te bats ?"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des personnages de DAWN AEROWAR",
+          "description": "Rencontrez les quelques personnages principaux : Zodiac 1, l'opérateur AWACS anonyme et les trois derniers as de l'Empire Saal'Runa.",
+          "href": "/story/dawn-aerowar-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Zodiac 1 — le protagoniste animé par la vengeance et le pilote nommé qui apparaît à l'écran"
+            },
+            {
+              "label": "A",
+              "detail": "L'opérateur AWACS — une voix à la radio incisive, bavarde et étrangement bien informée"
+            },
+            {
+              "label": "B",
+              "detail": "Reaper, Freya et Miracle — les as de l'Empire lancés à sa poursuite"
+            },
+            {
+              "label": "C",
+              "detail": "Voix secondaires — plus de trente autres rôles interprétés"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Épisodes et missions de DAWN AEROWAR",
+          "description": "Découvrez la structure en douze épisodes, la carte de la salle de guerre, l'itinéraire de la dernière sortie et la possibilité de regarder uniquement le film en mode cinématique.",
+          "href": "/guide/dawn-aerowar-war-room-and-episodes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "12",
+              "detail": "Des épisodes répartis sur une seule et même dernière sortie"
+            },
+            {
+              "label": "2 h",
+              "detail": "Près de deux heures d'histoire cinématographique"
+            },
+            {
+              "label": "CARTE",
+              "detail": "Sélectionnez les épisodes individuellement depuis la salle de guerre"
+            },
+            {
+              "label": "FILM",
+              "detail": "Le mode cinématique supprime les interactions radio et la carte"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Commandes et paramètres de DAWN AEROWAR",
+          "description": "Consultez les périphériques de commande pris en charge, les langues des sous-titres, l'accès à la salle de guerre et la façon de lancer le mode cinématique sans interruption.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CLAVIER",
+              "detail": "Le clavier est pris en charge pour la navigation"
+            },
+            {
+              "label": "SOURIS",
+              "detail": "La souris est prise en charge en complément du clavier"
+            },
+            {
+              "label": "MANETTE",
+              "detail": "La manette est pleinement prise en charge"
+            },
+            {
+              "label": "SOUS-TITRES",
+              "detail": "Sous-titres en anglais, français, italien, allemand et espagnol"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Distribution vocale et bande originale de DAWN AEROWAR",
+          "description": "Découvrez la musique originale de Jose Pavli, Bells of Dawn, les sonorités chorales et orchestrales ainsi que la distribution vocale professionnelle anglophone.",
+          "href": "/music/dawn-aerowar-soundtrack",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Musique",
+              "detail": "77 minutes de musique originale composée pour accompagner les images"
+            },
+            {
+              "label": "Compositeur",
+              "detail": "Jose Pavli a composé les parties orchestrales, chorales, de guitare et vocales"
+            },
+            {
+              "label": "Single",
+              "detail": "Bells of Dawn a été dévoilé comme morceau de la bande-annonce d'annonce"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Configuration requise pour DAWN AEROWAR",
+          "description": "Découvrez les informations officielles sur la plateforme et les commandes, l'importance du format de film d'animation et où consulter les caractéristiques techniques confirmées.",
+          "href": "/release/dawn-aerowar-platforms-and-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Steam et Windows sont les plateformes confirmées"
+            },
+            {
+              "label": "COMMANDES",
+              "detail": "Clavier, souris ou manette"
+            },
+            {
+              "label": "FICHIERS",
+              "detail": "Le doublage intégral et les 77 minutes de musique en sont des composantes majeures"
+            },
+            {
+              "label": "CONFIG.",
+              "detail": "Consultez la page Steam officielle pour connaître la configuration PC confirmée"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Réponses rapides aux questions les plus fréquentes sur DAWN AEROWAR.",
+      "items": [
+        {
+          "question": "Qu'est-ce que DAWN AEROWAR ?",
+          "answer": "DAWN AEROWAR est un film d'animation interactif consacré à Zodiac 1, un pilote de chasse qui effectue une dernière mission d'escorte contre l'Empire Saal'Runa. Il associe des séquences aériennes cinématographiques en 3D, des personnages dessinés à la main en 2D et une distribution vocale anglaise complète."
+        },
+        {
+          "question": "DAWN AEROWAR est-il un jeu ou un film ?",
+          "answer": "C'est avant tout un film. L'interactivité vient de la carte de la salle de guerre, où vous pouvez sélectionner des épisodes, consulter des documents et choisir le mode cinématique pour regarder le film sans interruption."
+        },
+        {
+          "question": "Quelle est la durée de DAWN AEROWAR ?",
+          "answer": "Le film dure près de deux heures, réparties sur 12 épisodes, avec des contenus interactifs comprenant 12 dossiers de renseignement et 458 transmissions radio archivées."
+        },
+        {
+          "question": "Quels sont les personnages principaux de DAWN AEROWAR ?",
+          "answer": "Les personnages centraux sont Zodiac 1, l'opérateur AWACS anonyme et trois as de l'Empire Saal'Runa : Reaper, Freya et Miracle."
+        },
+        {
+          "question": "Quand sort DAWN AEROWAR ?",
+          "answer": "Il sortira sur Steam pour Windows le 10 novembre 2026, avec prise en charge du clavier, de la souris et de la manette, ainsi que des sous-titres en cinq langues."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Explorer DAWN AEROWAR",
+      "description": "Découvrez l'histoire, les personnages, les épisodes, la bande originale et les détails de la sortie de cette aventure aérienne animée et cinématographique.",
+      "primary": "Explorer le wiki",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Liens officiels",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les liens",
+    "playOnRoblox": "Jouer sur Steam",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Prochaines étapes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "À lire aussi",
+    "relatedGuides": "Guides associés",
+    "readMore": "En savoir plus",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Wiki DAWN AEROWAR",
+    "about": "Le wiki DAWN AEROWAR est un centre de guides indépendant créé par des fans, consacré à l'histoire, aux personnages, aux épisodes, à la bande originale et aux informations de sortie de cette aventure aérienne animée et cinématographique.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Wiki DAWN AEROWAR. Non affilié à Neïwa Interactive ni à Jose Pavli.",
+    "description": "Film d'animation interactif sur Steam comprenant 12 épisodes, une distribution vocale complète et une musique originale.",
+    "playGame": "Jouer sur Steam",
+    "officialDiscord": "X / Twitter officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "Instagram officiel",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation",
+    "release": "Sortie",
+    "guide": "Guide",
+    "story": "Histoire",
+    "music": "Musique"
+  },
+  "release": {
+    "overviewTitle": "Informations sur la sortie",
+    "overviewDescription": "Retrouvez la date de sortie de DAWN AEROWAR, les plateformes prises en charge, la configuration requise et les détails officiels de l'achat sur Steam."
+  },
+  "guide": {
+    "overviewTitle": "Guides et épisodes",
+    "overviewDescription": "Découvrez le fonctionnement de DAWN AEROWAR, sa salle de guerre, sa structure en épisodes et son format de film d'animation interactif."
+  },
+  "story": {
+    "overviewTitle": "Histoire et personnages",
+    "overviewDescription": "Suivez l'histoire complète de DAWN AEROWAR et rencontrez les pilotes, les escadrons et les personnages qui façonnent son drame aérien."
+  },
+  "music": {
+    "overviewTitle": "Musique et bande originale",
+    "overviewDescription": "Découvrez la bande originale de DAWN AEROWAR et le travail du compositeur Jose Pavli."
+  },
+  "community": {
+    "overviewTitle": "Communauté et liens officiels",
+    "overviewDescription": "Accédez aux canaux officiels de DAWN AEROWAR, aux actualités de la communauté et aux sources vérifiées."
+  }
+}
