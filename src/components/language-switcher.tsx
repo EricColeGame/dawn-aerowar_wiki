@@ -29,6 +29,7 @@ export function LanguageSwitcher({ locale }: { locale: string }) {
 
   if (!routing.locales.includes(locale as Locale)) return null;
   if (routing.locales.length <= 1) return null;
+  const currentLocale = locale as Locale;
 
   const handleSwitch = (nextLocale: Locale) => {
     if (nextLocale === locale) return;
@@ -47,7 +48,7 @@ export function LanguageSwitcher({ locale }: { locale: string }) {
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" size="sm" className="gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground">
           <Globe className="h-4 w-4" />
-          <span>{LOCALE_LABELS[locale] || locale.toUpperCase()}</span>
+          <span>{LOCALE_LABELS[currentLocale]}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="min-w-[140px]">
