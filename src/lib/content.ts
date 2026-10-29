@@ -237,13 +237,11 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  release: "Release",
+  guide: "Guide",
+  story: "Story",
+  music: "Music",
+  community: "Community",
 };
 
 // 日文分组标题映射
@@ -259,7 +257,6 @@ const GROUP_TITLES_JA: Record<string, string> = {
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
 };
 
 // locale → "Overview" 翻译
@@ -269,7 +266,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "release", "guide", "story", "music", "community",
 ];
 
 /**

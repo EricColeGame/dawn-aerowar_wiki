@@ -6,7 +6,15 @@
     "description": "Explore DAWN AEROWAR story, characters, all 12 episodes, soundtrack, release details, and official Steam sources in this cinematic animated aviation adventure.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "release": "Release",
+    "guide": "Guide",
+    "story": "Story",
+    "music": "Music",
+    "community": "Community",
+    "toggleTheme": "Toggle Theme"
+  },
   "home": {
     "meta": {
       "title": "DAWN AEROWAR Wiki — Story, Episodes, Characters & Soundtrack",
@@ -389,7 +397,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -419,11 +426,31 @@
     "officialDiscord": "Official X / Twitter",
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Instagram",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "release": "Release",
+    "guide": "Guide",
+    "story": "Story",
+    "music": "Music"
+  },
+  "release": {
+    "overviewTitle": "Release Information",
+    "overviewDescription": "Find the DAWN AEROWAR release date, supported platforms, system requirements, and official Steam purchase details."
+  },
+  "guide": {
+    "overviewTitle": "Guides and Episodes",
+    "overviewDescription": "Learn how DAWN AEROWAR works, explore its War Room, episode structure, and interactive animated-film format."
+  },
+  "story": {
+    "overviewTitle": "Story and Characters",
+    "overviewDescription": "Follow the complete DAWN AEROWAR story and meet the pilots, squadrons, and characters shaping its aerial drama."
+  },
+  "music": {
+    "overviewTitle": "Music and Soundtrack",
+    "overviewDescription": "Explore the original DAWN AEROWAR soundtrack and the work of composer Jose Pavli."
+  },
+  "community": {
+    "overviewTitle": "Community and Official Links",
+    "overviewDescription": "Connect to official DAWN AEROWAR channels, community updates, and verified sources."
   }
 }
