@@ -1,0 +1,14 @@
+{
+  "name": "dawn-aerowar-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "dawn-aerowar.wiki",
+      "custom_domain": true
+    }
+  ]
+}
