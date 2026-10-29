@@ -52,6 +52,5 @@ export default getRequestConfig(async ({ requestLocale }) => {
     locale === "en" ? {} : localeMessages[locale as Locale] ?? {},
   );
 
-  const messages = deepMerge(en, localeMessages);
   return { locale, messages };
 });
